@@ -1,6 +1,6 @@
 # × J X L I Λ N ×
 
-## « 🚀 » Wer sind wir eigentlich?
+## « 🚀 » Wer bin ich eigentlich?
 › Hey! Ich bin Julian, 17 Jahre alt und komme aus NRW. Seitdem ich 10 bin programmiere und entwickle ich eigene Projekte. Mein Ziel ist es, etwas Eigenes aufzubauen, auf das ich stolz sein kann und das auch anderen eine sinnvolle Plattform bietet.
 
 ## « ✨ » Was für Projekte entwickle ich denn?
@@ -16,7 +16,7 @@
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,java,c#,lua,mysql)](#)
 
 ## « ❓ » Du hast eine Frage?
-› Falls Sie *Fragen* oder ein *Anliegen* haben, kontaktieren Sie uns noch heute unter:
+› Falls du eine *Frage* oder ein *Anliegen* hast, kontaktiere mich unter:
 
 • **E-Mail**: [julian@macher.cash](mailto:julian@macher.cash)<br>
 • **Discord**: [https://discord.gg/a7EaFbh7J6](https://discord.gg/a7EaFbh7J6)
