@@ -13,7 +13,7 @@
 ## « ⚒️ » Welche Sprachen verwende ich eigentlich hauptsächlich?
 > Dies ist immer unterschiedlich, dennoch nutze ich hauptsächlich immer die folgenden Sprachen:
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,java,cpp,cs,py,lua,mongodb,mysql)](#)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,php,java,cpp,cs,py,lua,mongodb,mysql)](#)
 
 ## « ❓ » Du hast eine Frage?
 › Falls du eine *Frage* oder ein *Anliegen* hast, kontaktiere mich unter:
