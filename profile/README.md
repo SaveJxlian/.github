@@ -1,13 +1,16 @@
 # × J X L I Λ N ×
 
 ## « 🚀 » Wer bin ich eigentlich?
-› Hey! Ich bin Julian, 17 Jahre alt und komme aus NRW. Seitdem ich 10 bin programmiere und entwickle ich eigene Projekte. Mein Ziel ist es, etwas Eigenes aufzubauen, auf das ich stolz sein kann und das auch anderen eine sinnvolle Plattform bietet.
+› Hey! Ich bin **Julian**, **17 Jahre** alt und komme aus **NRW**. Seitdem ich 10 bin programmiere und entwickle ich eigene Projekte. Mein Ziel ist es, etwas Eigenes aufzubauen, auf das ich stolz sein kann und das auch anderen eine sinnvolle Plattform bietet.
 
 ## « ✨ » Was für Projekte entwickle ich denn?
-• 📛 × **PalmMC.NET**: *PalmMC ist ein 26.2+ Minecraft-Netzwerk mit selbstprogrammierten Plugins, eigene Maps und einzigartigen Funktionen. Die Community steht dabei im Mittelpunkt und kann aktiv an der Weiterentwicklung des Projektes mitwirken. 🌴*
+• 💚 × **Savera.ME**: ***Savera** ist das Unternehmen hinter all meinen Projekten. Hier entstehen neue Konzepte, bestehende Projekte werden weiterentwickelt und Ideen in die Realität umgesetzt. Welches Hauptthema Savera künftig genau einnehmen wird, befindet sich noch in Planung. 👀*
+> WEBSEITE: [https://www.savera.me](https://www.savera.me)
+
+<br>• ❤️ × **PalmMC.NET**: *PalmMC ist ein 26.2+ Minecraft-Netzwerk mit selbstprogrammierten Plugins, eigene Maps und einzigartigen Funktionen. Die Community steht dabei im Mittelpunkt und kann aktiv an der Weiterentwicklung des Projektes mitwirken. 🌴*
 > WEBSEITE: [https://www.palmmc.net](https://www.palmmc.net)
 
-<br>• 📛 × **NevarBot.COM**: *Nevar ist ein multifunktionaler Discord-Bot, der Server bei der Moderation, Verwaltung, Einrichtung und Unterhaltung hilft. Aufgrund der zahlreicher Konfigurationsmöglichkeiten lässt sich der Bot individuell an jede Community anpassen und bleibt dabei dauerhaft kostenlos. 🤖*
+<br>• ❤️ × **NevarBot.COM**: *Nevar ist ein multifunktionaler Discord-Bot, der Server bei der Moderation, Verwaltung, Einrichtung und Unterhaltung hilft. Aufgrund der zahlreicher Konfigurationsmöglichkeiten lässt sich der Bot individuell an jede Community anpassen und bleibt dabei dauerhaft kostenlos. 🤖*
 > WEBSEITE: [https://www.nevarbot.com](https://www.nevarbot.com)
 
 ## « ⚒️ » Welche Sprachen verwende ich eigentlich hauptsächlich?
